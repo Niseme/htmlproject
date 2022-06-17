@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+header{
+    color: white;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+
+.bg-header{
+    background-color: blue;
+}
+.bg-hero{
+    background-color: aqua;
+}
+.hero-txt{
+    height: 60vh;
+}
+.information {
+    background-color: yellow;
+    height: 40vh;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
